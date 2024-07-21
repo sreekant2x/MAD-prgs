@@ -21,7 +21,7 @@ re/layout/activity_main.xml
 
 
 
-MainActivity.java package 
+MainActivity.java 
 package com.example.menu;
 
 import android.os.Bundle;
